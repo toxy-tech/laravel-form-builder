@@ -1,5 +1,5 @@
 {
-    "name": "botble/form-builder",
+    "name": "toxy-tech/form-builder",
     "description": "Laravel form builder - symfony like",
     "extra": {
         "laravel": {
